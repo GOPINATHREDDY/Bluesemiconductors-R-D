@@ -1,0 +1,32 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 08 Jul 2019 19:26:22 at http://www.bluesemiconductors.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.bluesemiconductors.com -O1 "C:\Users\G GOPINATH REDDY\Desktop\0\BLuesemiconductors R&D" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:31:11	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/icon/apple-touch-icon-48-precomposed.png (from www.bluesemiconductors.com/)
+19:31:11	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/icon/apple-touch-icon-32-precomposed.png (from www.bluesemiconductors.com/)
+19:33:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 477200 got 386126): www.bluesemiconductors.com/images/slides/hero2.jpg
+19:33:19	Warning: 	file not stored in cache due to bogus state (broken size, expected 320611 got 105986): www.bluesemiconductors.com/images/slides/hero1.jpg
+19:33:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 1286669 got 1135438): www.bluesemiconductors.com/images/parallax/aboutus.jpg
+19:36:31	Warning: 	Retry after error -4 (Incorrect length (1333370 Bytes, 1423204 expected)) at link www.bluesemiconductors.com/images/parallax/bg-x.png (from www.bluesemiconductors.com/stylesheets/style.css)
+19:36:46	Warning: 	Retry after error -4 (Incorrect length (1135438 Bytes, 1286669 expected)) at link www.bluesemiconductors.com/images/parallax/aboutus.jpg (from www.bluesemiconductors.com/stylesheets/style.css)
+19:37:10	Warning: 	Retry after error -4 (Incorrect length (145152 Bytes, 235001 expected)) at link www.bluesemiconductors.com/images/parallax/bg-portfolio.jpg (from www.bluesemiconductors.com/stylesheets/style.css)
+19:37:24	Warning: 	Retry after error -4 (Incorrect length (386126 Bytes, 477200 expected)) at link www.bluesemiconductors.com/images/slides/hero2.jpg (from www.bluesemiconductors.com/home)
+19:37:37	Warning: 	Retry after error -4 (Incorrect length (105986 Bytes, 320611 expected)) at link www.bluesemiconductors.com/images/slides/hero1.jpg (from www.bluesemiconductors.com/home)
+19:37:38	Warning: 	Retry after error -4 (Connect Error) at link www.bluesemiconductors.com/energy_harvester (from www.bluesemiconductors.com/home)
+19:37:38	Warning: 	Retry after error -4 (Connect Error) at link www.bluesemiconductors.com/images/about/semiconductors_bs.png (from www.bluesemiconductors.com/home)
+19:37:39	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/img-sys/favicon.ico (from www.bluesemiconductors.com/fonts/glyphicons-halflings-regular.html)
+19:37:39	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/img-sys/css/style.min.css (from www.bluesemiconductors.com/fonts/glyphicons-halflings-regular.html)
+19:37:39	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/img-sys/js/respond.min.js (from www.bluesemiconductors.com/fonts/glyphicons-halflings-regular.html)
+19:37:39	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/img-sys/js/modernizr-2.6.2.min.js (from www.bluesemiconductors.com/fonts/glyphicons-halflings-regular.html)
+19:37:39	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/img-sys/img/snappy.png (from www.bluesemiconductors.com/fonts/glyphicons-halflings-regular.html)
+19:37:40	Warning: 	Retry after error -4 (Incorrect length (765120 Bytes, 872190 expected)) at link www.bluesemiconductors.com/images/about/p_reference.png (from www.bluesemiconductors.com/stylesheets/bluesemi.css)
+19:38:25	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/images/sort_desc.png (from www.bluesemiconductors.com/stylesheets/jquery.dataTables.min.css)
+19:38:25	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/images/sort_asc_disabled.png (from www.bluesemiconductors.com/stylesheets/jquery.dataTables.min.css)
+19:38:25	Error: 	"Not Found" (404) at link www.bluesemiconductors.com/images/sort_desc_disabled.png (from www.bluesemiconductors.com/stylesheets/jquery.dataTables.min.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 12 minutes 7 seconds : 152 links scanned, 133 files written (17775120 bytes overall) [17580734 bytes received at 24182 bytes/sec], 315343 bytes transferred using HTTP compression in 30 files, ratio 22%, 2.5 requests per connection
+(10 errors, 11 warnings, 0 messages)

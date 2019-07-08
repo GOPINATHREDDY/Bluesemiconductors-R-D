@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+
+
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>BLUESEMI</title>
+
+    <meta name="author" content="bluesemiconductors.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+
+    <!-- Responsive -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
+
+    <!-- REVOLUTION LAYERS STYLES -->
+    <link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
+
+    <!-- Colors -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
+
+    <!-- Animation Style -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
+
+    <!-- Favicon and touch icons  -->
+    <link href="icon/apple-touch-icon-48-precomposed.html" rel="icon" sizes="48x48">
+    <link href="icon/apple-touch-icon-32-precomposed.html" rel="icon" sizes="32x32">
+    <link href="icon/favicon.png" rel="shortcut icon">
+    <style class="color_css">
+        /* don't delete this blank tag*/
+	</style>
+
+	<!-- preloader styling -->
+	<style>
+		body {
+			overflow: hidden;
+		}
+
+		#preloader {
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			overflow: visible;
+			/* background: #333 url(./images/preloader.gif) center center;
+			background-size: cover; */
+			z-index: 10000;
+		}
+
+		#status {
+			height: 100%;
+			width: 100%;
+			position: absolute;
+			background-image: url(images/preloader.gif); /* path to your loading animation */
+			background-repeat: no-repeat;
+			background-position: center;
+			background-size: cover;
+		}
+
+        @media only screen and (max-width: 600px) {
+
+
+          #status {
+		    position: fixed;
+	       left: 0px;
+	          top: 0px;
+	         width: 100%;
+	         height: 100%;
+	          z-index: 9999;
+
+			background: url(images/preloader-mob.gif)  ; /* path to your loading animation */
+               background-color:black;
+            background-repeat: no-repeat;
+			background-position: center;
+		}
+
+        }
+	</style>
+
+	<script type="text/javascript" src="javascript/jquery.min.js"></script>
+	<script>
+		setTimeout(function() {
+			location.href = "home.html";
+		}, 4000);
+	</script>
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body class="header-sticky ">
+
+	<div id="preloader">
+		<div id="status">&nbsp;</div>
+	</div>
+
+</body>
+
+
+</html>

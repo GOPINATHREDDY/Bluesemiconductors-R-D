@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+
+
+<!-- Mirrored from www.bluesemiconductors.com/energy_harvester by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Jul 2019 17:38:11 GMT -->
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>BLUESEMI</title>
+
+    <meta name="author" content="bluesemiconductors.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="../stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+
+    <!-- Responsive -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
+
+    <!-- REVOLUTION LAYERS STYLES -->
+    <link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
+
+    <!-- Colors -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
+
+    <!-- Animation Style -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
+
+    <!-- Favicon and touch icons  -->
+    <link href="icon/apple-touch-icon-48-precomposed.html" rel="icon" sizes="48x48">
+    <link href="icon/apple-touch-icon-32-precomposed.html" rel="icon" sizes="32x32">
+    <link href="icon/favicon.png" rel="shortcut icon">
+    	<style class="color_css">
+        /* don't delete this blank tag*/
+    </style>
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body class="header-sticky">
+
+    <div class="loader">
+        <span class="loader1 block-loader"></span>
+        <span class="loader2 block-loader"></span>
+        <span class="loader3 block-loader"></span>
+    </div>
+
+    <div class="boxed">
+
+        <!-- Wrap-slide -->
+        <div class="wrap-slider header-style1">
+            <!-- Header -->
+            <header id="header" class="header header-classic clearfix" data-page="products"> </header>
+
+            <!-- Page title -->
+          <div class="page-title parallax parallax8">
+            <div class="overlay"></div>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6 text-block">
+                  <div class="page-title-heading p-15">
+                    <h1 class="title">ENERGY HARVESTER</h1>
+                    <h3 class="mt-5">Beyond the radius of outspreading energy – in temperature, load and supply.</h3>
+                  </div>
+                </div><!-- /.col-md-6 -->
+              </div><!-- /.row -->
+            </div><!-- /.container -->
+          </div> <!-- /.wrap-slider -->
+
+          <section>
+            <div class="container mt-5">
+                <div class="title-section large">
+                  <h3 class="title">ENERGY HARVESTER</h3>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-xs-12">
+                      <p class="pd-font">A wide range of wireless devices has been manufactured that become very important to normal consumer, industrial and military needs. Unfortunately, with existing technology, wireless devices are constrained by their inability to operate under independent of centralized power sources for a long duration. As a result, the usefulness of wireless devices, is severely restricted by relatively slow advancements in rechargeable battery technology. A clear market need exist that either allows wireless devices to operate for longer durations away from centralised power sources or increases the amount of power that can be supplied to a wireless device. So, that energy harvesting will only be a new technology that is going to make a revolution in the coming decade.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="images/product/chip4.png" alt="" class="img-responsive float-right" width="400">
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+              <div class="title">
+                  <h3 class="title">Industry best</h3>
+                </div>
+                <div class="row">
+              <div class="col-md-6 col-xs-12">
+                <p class="pd-font">
+                  Bluesemi have proven prototypes of Multi Self Sustaining Energy Harvesters with a wide range of reception and running at Ultra Low Power based on Sub Threshold technology. We have Self Powered low headroom sub threshold designs along with Narrow band filters with tuning capability.Higher average current load delivery capability with a wider coverage up to 2 meters and High thermal to electrical conversion ratio. Our system can handle a load of upto 25 mA for a duration suitable for bluetooth and wifi communications and can provide an average current of upto 500 uA making it most suitable for smart wearables, wireless sensor network and real time tracking devices.
+                </p>
+              </div>
+              <div class="col-lg-6">
+                <ul class="zpiz_ul">
+                  <h3 class="text-center">Features</h3>
+                  <li>High ambient reception radius of more than 2 mts.</li>
+                  <li>Best Load Capability of 180mw.</li>
+                  <li>Ultra low stand by power of 1 nW.</li>
+                  <li>Least foot print of 0.1 sq. mm.</li>
+                  <li>Supports a wide supply range of 0.5 V - 3.3 V.</li>
+                  <li>Wide Temperature range of -55 deg C to 125 deg C.</li>
+                  <li>Multi band tuning capability.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <div class="container">
+            <div class="text-center">
+              <h2 class="zpis-title">Application Areas</h2>
+            </div>
+            <div class="row">
+              <div class="col-sm-6 col-xs-12 app-areas-left">
+                <div class="app-areas width-75 ">
+                  <div class="app-areas-body">
+                    <h4 class="app-areas-title">Home Automation</h4>
+                    <p class="app-areas-text">Light switches, light sensors Smart valves, smart thermostats Smart locks, motion sensors Smart cameras Smart kitchen scales, pans, plates forks, bins Aroma diffuser sensor Fire detectors etc.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-xs-12">
+                <div class="app-areas  width-75 ml-154">
+                  <div class="app-areas-body">
+                    <h4 class="app-areas-title">Industry</h4>
+                    <p class="app-areas-text">Smoke detector sensorsCurrent sensors Air pollution sensor Real time localisation trackers Pressure, temperature, activity sensors on motors and machines Green houses monitoring etc.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-xs-12 app-areas-left">
+                <div class="app-areas width-75 ">
+                  <div class="app-areas-body">
+                    <h4 class="app-areas-title">Smart Metering</h4>
+                    <p class="app-areas-text">Water meters Gas meter On road car countin Tank level monitorin Monitoring solar energy plant etc.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-xs-12">
+                <div class="app-areas  width-75 ml-154">
+                  <div class="app-areas-body">
+                    <h4 class="app-areas-title">Retail</h4>
+                    <p class="app-areas-text">Electronic price tags Smart fridge thermometer Humidity sensor Goods trackin Supply chain contro Asset locatio etc.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-xs-12 app-areas-left">
+                <div class="app-areas width-75 ">
+                  <div class="app-areas-body">
+                    <h4 class="app-areas-title">Security</h4>
+                    <p class="app-areas-text">Motion sensors Smart security camera Smart alarm Perimeter location contro People detectio Gas leakage monitorin etc.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-xs-12">
+                <div class="app-areas  width-75 ml-154">
+                  <div class="app-areas-body">
+                    <h4 class="app-areas-title">Society & Wearables</h4>
+                    <p class="app-areas-text">People tracking Pet trackin Smart watche Smart clothe Smart glasse Smart toy etc.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <div class="container">
+            <div class="text-center">
+              <h2 class="zpis-title">Specification</h2>
+            </div>
+            <div class="row">
+              <div class="col-sm-6 col-xs-12">
+                <h4 class="app-areas-title text-center">Energy Harvester</h4>
+                <table class="table table-striped sp-tbl">
+                  <tbody>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Load Capability (in mw)</td>
+                      <td>180</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Standby Mode (Power Dissipation)</td>
+                      <td>1</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Area (in sq.mm)</td>
+                      <td>0.1</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Supply Voltage Range</td>
+                      <td>0.5 -3.3</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>LDO & PM Integration</td>
+                      <td>yes</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Technology Nodes (nm)</td>
+                      <td>180, 55, 40, 28 & 22</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="col-sm-6 col-xs-12">
+                <h4 class="app-areas-title text-center">Voltage Regulator</h4>
+                <table class="table table-striped sp-tbl">
+                  <tbody>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Load Capability (in mA)</td>
+                      <td>10</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>PSRR (in dB)</td>
+                      <td>-8.1</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Line Regulation (mV/V)</td>
+                      <td>19</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Load Regulation (dB)</td>
+                      <td>-8.1/10 mA</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Start up Time (mS)</td>
+                      <td>25</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Quiescent Current (nA)</td>
+                      <td>4</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                 </tbody>
+                </table>
+              </div>
+            </div>
+             <div class="col-sm-6 col-xs-12">
+                <h4 class="app-areas-title text-center">Voltage Reference</h4>
+                <table class="table table-striped sp-tbl">
+                  <tbody>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Technology node</td>
+                      <td>22 nm</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Temperature Range (℃)</td>
+                      <td>-55 to 125</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Vref Output (V)</td>
+                      <td>1.2</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Line Regulation (mV/V)</td>
+                      <td>2</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Temperature Deviation (ppm/℃</td>
+                      <td>15</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td>Trimming</td>
+                      <td>Yes</td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                 </tbody>
+                </table>
+              </div>
+            </div>
+          </section>
+        <section class="getstarted" id="know_more"> </section>
+      </div>
+      <!-- Footer -->
+      <footer class="footer" id="footer"></footer>
+
+      <!-- Bottom -->
+      <div class="bottom" id="bottom"></div>
+
+      <!-- Go Top -->
+      <a class="go-top">
+          <i class="fa fa-angle-up" aria-hidden="true"></i>
+      </a>
+
+      <!-- Javascript -->
+      <script type="text/javascript" src="javascript/jquery.min.js"></script>
+      <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
+      <script type="text/javascript" src="javascript/jquery.easing.js"></script>
+
+
+      <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
+      <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
+
+
+      <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
+
+      <script type="text/javascript" src="javascript/jquery-waypoints.js"></script>
+      <script type="text/javascript" src="javascript/parallax.js"></script>
+      <script type="text/javascript" src="javascript/main.js"></script>
+      <script type="text/javascript" src="javascript/contents/footer.js"></script>
+      <script type="text/javascript" src="javascript/contents/bottom.js"></script>
+      <script type="text/javascript" src="javascript/contents/know_more.js"></script>
+      <script type="text/javascript" src="javascript/contents/header.js"></script>
+    </div> <!-- /.boxed -->
+  </body>
+
+<!-- Mirrored from www.bluesemiconductors.com/energy_harvester by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Jul 2019 17:38:12 GMT -->
+</html>
